@@ -28,8 +28,6 @@ A simple assignment project built with Next.js for the frontend framework and st
 
 ## <span style="font-size: 24px; font-weight: 600;">Deployment</span>
 <span style="font-size: 16px;">
-This app is deployed on Vercel. Push your code to GitHub and connect the repo to Vercel for automatic deployment.
+This project is deployed on Vercel. 
 </span>
 
-## <span style="font-size: 24px; font-weight: 600;">Author</span>
-<span style="font-size: 16px;">Project by Lunacal for interview assignment.</span>
